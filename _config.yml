@@ -1,5 +1,5 @@
 theme: jekyll-theme-midnight
 nav: 
-  - Home : index.md
+  - Home : README.md
   - Overview :
     - About : OV_About.md 
