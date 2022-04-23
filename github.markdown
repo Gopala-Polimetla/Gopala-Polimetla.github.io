@@ -32,7 +32,7 @@ permalink: /github/
 
 *git config --global user.email "[your email]"*
 
-#### Basic Interview question
+#### Basic Interview questions
 
 1. What is Git ?
 
@@ -43,4 +43,15 @@ permalink: /github/
     Unlike the other systems, Git has something called the "staging area" or "index". This is an intermediate area where commits can be formatted and reviewed before completing the commit.
 
     [Git Official Document](https://git-scm.com/book/en/v2)
+    
+2. What is Git Merge ?
+
+    The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
+
+    Note that all of the commands presented below merge into the current branch. The current branch will be updated to reflect the merge, but the target branch will be completely unaffected. Again, this means that git merge is often used in conjunction with git checkout for selecting the current branch and git branch -d for deleting the obsolete target branch.
+
+    Git merge will combine multiple sequences of commits into one unified history. In the most frequent use cases, git merge is used to combine two branches. The following examples in this document will focus on this branch merging pattern. In these scenarios, git merge takes two commit pointers, usually the branch tips, and will find a common base commit between them. Once Git finds a common base commit it will create a new "merge commit" that combines the changes of each queued merge commit sequence.
+
+    [Git Official Document](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
+
 
