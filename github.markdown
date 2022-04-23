@@ -36,7 +36,7 @@ permalink: /github/
 
 Please follow below stepts to SignUp for the GitHub.
 
-1. Click on [https://github.com/](https://github.com/) and enter your email id as shown in the below diagram.
+1. Open [https://github.com/](https://github.com/), enter your email id as shown in the below diagram and click on continue.
 
 ![singup Image](./images/signup1.png)
 
