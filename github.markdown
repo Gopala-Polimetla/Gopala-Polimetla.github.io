@@ -4,17 +4,33 @@ title: Github
 permalink: /github/
 ---
 
-GitHub Commands
+### GitHub Commands
+
+*git init*
+
+*git branch*
+
+*git branch [branch name]*
+
+*git checkout*
+
+*git status*
+
+*git add [file]*
+
+*git add .*
+
+*git commit -am "Your Message"*
+
+*git push origin [branch name]*
+
+*git pull*
+
+*git clone [URL]*
+
+*git config --global user.name "[username]"*
+
+*git config --global user.email "[your email]"*
 
 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
