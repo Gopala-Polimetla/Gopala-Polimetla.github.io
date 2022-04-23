@@ -32,6 +32,14 @@ permalink: /github/
 
 *git config --global user.email "[your email]"*
 
+### Follow the steps to SignUp GitHub
+
+Please follow below stepts to SignUp for the GitHub.
+
+1. Click on [https://github.com/](https://github.com/) and enter your email id as shown in the below diagram.
+
+![singup Image](./images/signup1.png)
+
 #### Basic Interview questions
 
 1. What is Git ?
@@ -43,7 +51,7 @@ permalink: /github/
     Unlike the other systems, Git has something called the "staging area" or "index". This is an intermediate area where commits can be formatted and reviewed before completing the commit.
 
     [Git Official Document](https://git-scm.com/book/en/v2)
-    
+
 2. What is Git Merge ?
 
     The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
