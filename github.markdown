@@ -10,12 +10,12 @@ Git is a free and open source distributed version control system designed to han
 Git allows and encourages you to have multiple local branches that can be entirely independent of each other. The creation, merging, and deletion of those lines of development takes seconds.
 
 
-> #### Difference between Git and GitHub
-> 
+#### Difference between Git and GitHub
+
 > - Git is an open-source tool developers install locally   to manage source code.
 > - GitHub is an online service to which developers who use Git can connect and upload or download resources.
 
-### Follow the steps to SignUp GitHub
+### Follow the steps to SignUp for GitHub free account.
 
 Please follow below stepts to SignUp for the GitHub.
 
