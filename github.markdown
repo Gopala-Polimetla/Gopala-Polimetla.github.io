@@ -36,27 +36,27 @@ permalink: /github/
 
 Please follow below stepts to SignUp for the GitHub.
 
-1. Open [https://github.com/](https://github.com/), enter your email id as shown in the below diagram and click on continue.
+-  Open [https://github.com/](https://github.com/), enter your email id as shown in the below diagram and click on continue.
 
 ![singup Image](./images/signup1.png)
 
-2. Enter password and username of your choice as shown in the below diagram.
+-  Enter password and username of your choice as shown in the below diagram.
 
 ![singup Image](./images/signup2.png)
 
-3. provide the option for product update y/n and click on start puzzle to verify the account and click on create account .
+-  provide the option for product update y/n and click on start puzzle to verify the account and click on create account .
 
-4. Enter the GITHUB launch code received to your email id .
+-  Enter the GITHUB launch code received to your email id .
 
-5. Select team size of your choice and select Student and click on continue as shown in the below image.
+-  Select team size of your choice and select Student and click on continue as shown in the below image.
 
 ![singup Image](./images/signup3.png)
 
-6. Select all the features and click on continue as shown in the below image.
+-  Select all the features and click on continue as shown in the below image.
 
 ![singup Image](./images/signup4.png)
 
-7. Slect the Free subscription and click on Continue for free as shown in the below image.
+-  Slect the Free subscription and click on Continue for free as shown in the below image.
 
 ![singup Image](./images/signup5.png)
 
