@@ -45,31 +45,27 @@ Please follow below stepts to SignUp for the GitHub.
 
 ### GitHub Commands
 
-*git init*
-
-*git branch*
-
-*git branch [branch name]*
-
-*git checkout*
-
-*git status*
-
-*git add [file]*
-
-*git add .*
-
-*git commit -am "Your Message"*
-
-*git push origin [branch name]*
-
-*git pull*
-
-*git clone [URL]*
-
-*git config --global user.name "[username]"*
-
-*git config --global user.email "[your email]"*
+| Syntax             | Description     |
+| ------------------ | --------------- |
+| git --version      | This command will tell<br> you the version of Git you installed |
+| git init           | Git initialization |
+| git add            | Add file contents to the index |
+| git status         | Will Show the working tree status|
+| git diff           | Show changes between commits, commit and working tree, etc |
+| git commit         | Record changes to the repository |
+| git rm             | Remove files from the working tree and from the index |
+| git mv             | Move or rename a file, a directory |
+| git clone          | Clone a repository into a new directory |
+| git branch         | List, create, or delete branches |
+| git checkout       | Switch branches or restore working tree files |
+| git switch         | Switch branches |
+| git merge          | Join two or more development histories together |
+| git log            | Show commit logs |
+| git stash          | Stash the changes in a dirty working directory away |
+| git tag            | Create, list, delete or verify a tag object signed with GPG |
+| git pull           | Fetch from and integrate with another repository or a local branch |
+| git push           | Push the changes/Updates to remote repository |
+| git ls-files       | Show information about files in the index and the working tree |
 
 
 #### Basic Interview questions
