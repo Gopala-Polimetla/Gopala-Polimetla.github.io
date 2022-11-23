@@ -89,5 +89,7 @@ Please follow below stepts to SignUp for the GitHub.
     Git merge will combine multiple sequences of commits into one unified history. In the most frequent use cases, git merge is used to combine two branches. The following examples in this document will focus on this branch merging pattern. In these scenarios, git merge takes two commit pointers, usually the branch tips, and will find a common base commit between them. Once Git finds a common base commit it will create a new "merge commit" that combines the changes of each queued merge commit sequence.
 
     [Git Official Document](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
+    
+    Sample test
 
 
